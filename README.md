@@ -41,9 +41,8 @@ Le projet suit une structure modulaire séparant la logique du jeu de l'affichag
 ```bash
 git clone [https://github.com/votre-username/java-chess-game.git](https://github.com/votre-username/java-chess-game.git)
 cd java-chess-game
+```
 
-    Focus Jules : Gestion du plateau et logique globale.
-
-    Focus Théophile : Logique des pièces et déplacements.
-
-    Commun : Intégration des mouvements et Interface Graphique.
+Focus Jules : Gestion du plateau et logique globale.
+Focus Théophile : Logique des pièces et déplacements.
+Commun : Intégration des mouvements et Interface Graphique.
