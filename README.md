@@ -39,7 +39,7 @@ Le projet suit une structure modulaire séparant la logique du jeu de l'affichag
 
 ### 1. Cloner le dépôt
 ```bash
-git clone [https://github.com/votre-username/java-chess-game.git](https://github.com/votre-username/java-chess-game.git)
+git clone [https://github.com/Artheopst/java-chess-game.git]
 cd java-chess-game
 ```
 
